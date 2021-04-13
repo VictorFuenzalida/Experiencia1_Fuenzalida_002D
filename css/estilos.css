@@ -87,7 +87,7 @@
 }
 
 .titulo{
-  color: #FFF;
+  color:antiquewhite;
   margin: 0 auto;
   text-align: center;
   font-weight: 250;
@@ -155,3 +155,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #D35400;
+ }
+ 
+ .panel-footer{
+    color: #D35400;
+ }
