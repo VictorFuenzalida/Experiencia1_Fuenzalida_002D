@@ -29,9 +29,8 @@
 }
 
 .hovereffects h2{
-  text-transform: uppercase;
   color: #fff;
-  text-align: center;
+  text-align:left;
   position: relative;
   font-size: 17px;
   background: rgba(0, 0, 0, 0.6);
@@ -159,8 +158,16 @@
 
 .navbar-dark .navbar-nav .nav-link {
   color: #D35400;
+  text-shadow: 2px 2px 8px rgb(0, 0, 0);
  }
  
  .panel-footer{
     color: #D35400;
+    text-shadow: 2px 2px 8px rgb(0, 0, 0);
  }
+
+ .sombrita{
+   text-shadow: 2px 2px 8px #FF0000;
+   
+ }
+
